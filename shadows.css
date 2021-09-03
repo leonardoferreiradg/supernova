@@ -1,0 +1,11 @@
+
+:root {
+    --shadowBoxShadowNone: 0px 0px  0px   0px    #00000000;    
+    --shadowBoxShadowXs: 0px 1px  2px   0px    #0000000d;    
+    --shadowBoxShadowSm: 0px 1px  3px   0px    #0000001a;    
+    --shadowBoxShadowRg: 0px 2px  4px   0px    #0000001a;    
+    --shadowBoxShadowMd: 0px 4px  8px   0px    #0000001a;    
+    --shadowBoxShadowLg: 0px 8px  16px   0px    #0000001a;    
+    --shadowBoxShadowXl: 0px 16px  20px   0px    #0000001a;    
+    --shadowBoxShadowFull: 1px 1px  16px   0px    #0000001a;    
+}
